@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Diagnostics;
 
-namespace Exercise2_Week1;
+namespace Exercise2Week1;
 
 class Exercise2
 {
